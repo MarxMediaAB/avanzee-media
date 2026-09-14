@@ -1,0 +1,203 @@
+{
+ "account": "avanzeelife_de",
+ "cadence": "taeglich, 18:00 Europe/Berlin (16:00 UTC). Faellt das Stueck des Tages mangels Freigabe aus, rueckt das naechste freigegebene nach, damit die Kette nicht reisst.",
+ "approved_by_tom": true,
+ "hinweis": "Taeglich. Der Trigger veroeffentlicht ausschliesslich Eintraege mit status 'queued'. 'needs_approval' und 'awaiting_approval' werden uebersprungen, nie automatisch gepostet.",
+ "posts": [
+  {
+   "id": "01-bereuen",
+   "date": "2026-09-10",
+   "kind": "awareness",
+   "status": "posted",
+   "media_id": "17887891845458765",
+   "permalink": "https://www.instagram.com/reel/DdHJqU-sCEm/",
+   "posted_at": "2026-09-10T15:24:48+0000",
+   "hinweis": "Von Tom in der App gepostet, mit Trending-Audio. Der frueher hier vermerkte Permalink DdCnt2MCQw6 existiert auf dem Konto nicht."
+  },
+  {
+   "id": "02-zeit-vergessen",
+   "date": "2026-09-11",
+   "kind": "awareness",
+   "status": "posted",
+   "media_id": "18388355452206112",
+   "permalink": "https://www.instagram.com/reel/DdInUbhsNtt/",
+   "posted_at": "2026-09-11T05:03:26+0000",
+   "hinweis": "Von Tom in der App gepostet, mit Trending-Audio. Der frueher hier vermerkte Permalink DdG8SsAiCZw existiert auf dem Konto nicht."
+  },
+  {
+   "id": "N1-neunzig-tage",
+   "date": "2026-09-12",
+   "serie": "alt",
+   "kind": "cta",
+   "status": "posted",
+   "media_id": "18123159467476783",
+   "permalink": "https://www.instagram.com/reel/DdLrNkJMPN_/",
+   "posted_at": "2026-09-12T09:36:14+0000",
+   "posted_by": "Tom, manuell",
+   "hinweis": "Ueber die API veroeffentlicht. Datum war mit 2026-09-11 falsch vermerkt."
+  },
+  {
+   "id": "03-niemand-schaut-zu",
+   "date": "2026-09-14",
+   "serie": "alt",
+   "kind": "awareness",
+   "status": "posted",
+   "media_id": "18124531738859806",
+   "permalink": "https://www.instagram.com/reel/DdRnsWzDQrl/",
+   "posted_at": "2026-09-14T16:59:26+0000",
+   "hinweis": "Ohne Tonspur. Die erste Fassung mit Glockenbett (DdRldFTDcnb) hat Tom in der App geloescht."
+  },
+  {
+   "id": "S1-fuenf-sekunden",
+   "date": "2026-09-15",
+   "serie": "neu",
+   "kind": "signal",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14"
+  },
+  {
+   "id": "04-werte",
+   "date": "2026-09-16",
+   "serie": "alt",
+   "kind": "awareness",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "S2-die-nachricht",
+   "date": "2026-09-17",
+   "serie": "neu",
+   "kind": "signal",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14"
+  },
+  {
+   "id": "N2-in-einem-satz",
+   "date": "2026-09-18",
+   "serie": "alt",
+   "kind": "cta",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "05-hinterlassen",
+   "date": "2026-09-19",
+   "serie": "alt",
+   "kind": "awareness",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "S3-zwei-wege",
+   "date": "2026-09-20",
+   "serie": "neu",
+   "kind": "signal",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14"
+  },
+  {
+   "id": "N3-halbe-zeit",
+   "date": "2026-09-21",
+   "serie": "alt",
+   "kind": "cta",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "06-idealer-tag",
+   "date": "2026-09-22",
+   "serie": "alt",
+   "kind": "awareness",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "S4-screenshot",
+   "date": "2026-09-23",
+   "serie": "neu",
+   "kind": "signal",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14"
+  },
+  {
+   "id": "07-traum",
+   "date": "2026-09-24",
+   "serie": "alt",
+   "kind": "awareness",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "N4-ein-nachmittag",
+   "date": "2026-09-25",
+   "serie": "alt",
+   "kind": "cta",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "K1-ziele-scheitern",
+   "date": "2026-09-26",
+   "serie": "neu",
+   "kind": "signal",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14"
+  },
+  {
+   "id": "08-erst-der-mensch",
+   "date": "2026-09-27",
+   "serie": "alt",
+   "kind": "awareness",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, 2026-09-14"
+  },
+  {
+   "id": "N5-wessen-ziel",
+   "date": "2026-09-28",
+   "serie": "alt",
+   "kind": "cta",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "09-nordstern-satz",
+   "date": "2026-09-29",
+   "serie": "alt",
+   "kind": "awareness",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  },
+  {
+   "id": "N6-wendepunkt",
+   "date": "2026-09-30",
+   "serie": "alt",
+   "kind": "cta",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null
+  }
+ ],
+ "historie_geprueft": "2026-09-14 gegen das Konto abgeglichen. Live sind genau drei Beitraege aus dieser Serie: 01 (10.09.), 02 (11.09.), N1 (12.09.). Ein vierter Beitrag vom 08.09. taucht auf dem Konto nicht auf.",
+ "tonregel": "Tom, 14.09.2026: alle Videos gehen ohne Tonspur raus. Er legt Trending-Audio in der App darauf, und eine vorhandene Tonspur verhindert das. build.py baut seitdem stumm (AVANZEE_TON=1 stellt das alte Glockenbett wieder her)."
+}
