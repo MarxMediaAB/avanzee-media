@@ -42,10 +42,10 @@
    "serie": "alt",
    "kind": "awareness",
    "status": "posted",
-   "media_id": "18124531738859806",
-   "permalink": "https://www.instagram.com/reel/DdRnsWzDQrl/",
-   "posted_at": "2026-09-14T16:59:26+0000",
-   "hinweis": "Ohne Tonspur. Die erste Fassung mit Glockenbett (DdRldFTDcnb) hat Tom in der App geloescht."
+   "media_id": "18136382950712550",
+   "permalink": "https://www.instagram.com/reel/DdRrBg1sXYm/",
+   "posted_at": "2026-09-14T17:28:24+0000",
+   "hinweis": "Von Tom in der App neu gepostet. Die ueber die API veroeffentlichte stumme Fassung (DdRnsWzDQrl) ist geloescht."
   },
   {
    "id": "04-werte",
@@ -211,5 +211,6 @@
  ],
  "historie_geprueft": "2026-09-14 gegen das Konto abgeglichen. Live sind genau drei Beitraege aus dieser Serie: 01 (10.09.), 02 (11.09.), N1 (12.09.). Ein vierter Beitrag vom 08.09. taucht auf dem Konto nicht auf.",
  "tonregel": "Tom, 14.09.2026: alle Videos gehen ohne Tonspur raus. Er legt Trending-Audio in der App darauf, und eine vorhandene Tonspur verhindert das. build.py baut seitdem stumm (AVANZEE_TON=1 stellt das alte Glockenbett wieder her).",
- "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 3 und hoechstens 5 Sekunden je Karte."
+ "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 3 und hoechstens 5 Sekunden je Karte.",
+ "permalink_regel": "Wenn Tom einen Beitrag in der App loescht und neu postet, wird die alte media_id ungueltig und die API antwortet mit 'does not exist'. Der taegliche Lauf gleicht deshalb vor dem Ziehen der Zahlen ab, ob die gespeicherte media_id noch existiert, und traegt sonst die aktuelle Fassung mit derselben Caption nach. Das erklaert auch die frueheren Phantom-Permalinks vom 08. und 10.09."
 }
