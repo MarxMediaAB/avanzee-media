@@ -35,11 +35,17 @@ Ein Eintrag pro Tag unter `posts`, aufsteigend nach Datum.
 | `date` | Veröffentlichungstag, Europe/Berlin, 18:00 |
 | `id` | Dateiname ohne Endung, zeigt auf `reels/<id>.mp4` und `.txt` |
 | `status` | `queued` oder `posted`. Nur `queued` wird veröffentlicht |
-| `modus` | `auto` oder `manuell`. Fehlt das Feld, gilt `auto` |
+| `modus` | `manuell` (Normalfall), `auto` (nur auf Toms Wort), `umbau` (noch nicht fertig) |
 | `media_id`, `permalink`, `posted_at` | nach dem Posten eingetragen |
 
-`modus: manuell` heißt: nicht automatisch veröffentlichen, sondern Tom Video und
-Caption schicken. Er legt in der App Trending-Audio darauf und postet selbst.
+`modus: manuell` ist seit dem 15.09.2026 der Normalfall: nicht veröffentlichen,
+sondern Tom Video und Caption schicken. Er lädt in der App hoch und legt dort
+Trending-Audio darauf. Über die API lässt sich keine Musik hinzufügen, und
+nachträglich geht es in der App auch nicht mehr, deshalb muss der Ton beim
+Erstellen des Beitrags dazukommen.
+
+`auto` wird nur gesetzt, wenn Tom für ein Stück ausdrücklich "stumm posten"
+sagt. `umbau` heißt: noch nicht fertig, überspringen.
 
 Fällt das Stück des Tages aus, rückt der nächste Eintrag mit `queued` nach,
 damit die Kette nicht reißt.

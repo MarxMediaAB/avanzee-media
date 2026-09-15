@@ -1,6 +1,6 @@
 {
  "account": "avanzeelife_de",
- "cadence": "taeglich, 18:00 Europe/Berlin (16:00 UTC). Faellt das Stueck des Tages mangels Freigabe aus, rueckt das naechste freigegebene nach, damit die Kette nicht reisst.",
+ "cadence": "taeglich, 18:00 Europe/Berlin. Der Lauf liefert das Paket, Tom postet. Faellt ein Stueck aus, rueckt das naechste nach, damit die Kette haelt.",
  "approved_by_tom": true,
  "hinweis": "Taeglich. Der Trigger veroeffentlicht ausschliesslich Eintraege mit status 'queued'. 'needs_approval' und 'awaiting_approval' werden uebersprungen, nie automatisch gepostet.",
  "posts": [
@@ -67,7 +67,8 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "hinweis": "In die dunkle Serie portiert und auf 24,8 Sekunden gebracht (Tom: hoechstens 25). Vorher hell und 17,0 Sekunden."
+   "hinweis": "In die dunkle Serie portiert und auf 24,8 Sekunden gebracht (Tom: hoechstens 25). Vorher hell und 17,0 Sekunden.",
+   "modus": "manuell"
   },
   {
    "id": "S2-die-nachricht",
@@ -78,7 +79,7 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "modus": "offen",
+   "modus": "umbau",
    "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
   },
   {
@@ -88,7 +89,8 @@
    "kind": "cta",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   },
   {
    "id": "05-hinterlassen",
@@ -97,7 +99,8 @@
    "kind": "awareness",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   },
   {
    "id": "S3-zwei-wege",
@@ -108,7 +111,7 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "modus": "offen",
+   "modus": "umbau",
    "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
   },
   {
@@ -118,7 +121,8 @@
    "kind": "cta",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   },
   {
    "id": "06-idealer-tag",
@@ -127,7 +131,8 @@
    "kind": "awareness",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   },
   {
    "id": "S4-screenshot",
@@ -138,7 +143,7 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "modus": "offen",
+   "modus": "umbau",
    "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
   },
   {
@@ -148,7 +153,8 @@
    "kind": "awareness",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   },
   {
    "id": "N4-ein-nachmittag",
@@ -157,7 +163,8 @@
    "kind": "cta",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   },
   {
    "id": "K1-ziele-scheitern",
@@ -168,7 +175,7 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "modus": "offen",
+   "modus": "umbau",
    "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
   },
   {
@@ -179,7 +186,8 @@
    "status": "queued",
    "media_id": null,
    "permalink": null,
-   "freigabe": "Tom, 2026-09-14"
+   "freigabe": "Tom, 2026-09-14",
+   "modus": "manuell"
   },
   {
    "id": "N5-wessen-ziel",
@@ -188,7 +196,8 @@
    "kind": "cta",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   },
   {
    "id": "09-nordstern-satz",
@@ -197,7 +206,8 @@
    "kind": "awareness",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   },
   {
    "id": "N6-wendepunkt",
@@ -206,11 +216,13 @@
    "kind": "cta",
    "status": "queued",
    "media_id": null,
-   "permalink": null
+   "permalink": null,
+   "modus": "manuell"
   }
  ],
  "historie_geprueft": "2026-09-14 gegen das Konto abgeglichen. Live sind genau drei Beitraege aus dieser Serie: 01 (10.09.), 02 (11.09.), N1 (12.09.). Ein vierter Beitrag vom 08.09. taucht auf dem Konto nicht auf.",
  "tonregel": "Tom, 14.09.2026: alle Videos gehen ohne Tonspur raus. Er legt Trending-Audio in der App darauf, und eine vorhandene Tonspur verhindert das. build.py baut seitdem stumm (AVANZEE_TON=1 stellt das alte Glockenbett wieder her).",
  "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 2,4 und hoechstens 3,9 Sekunden je Karte, fertiges Reel hoechstens 25 Sekunden.",
- "permalink_regel": "Wenn Tom einen Beitrag in der App loescht und neu postet, wird die alte media_id ungueltig und die API antwortet mit 'does not exist'. Der taegliche Lauf gleicht deshalb vor dem Ziehen der Zahlen ab, ob die gespeicherte media_id noch existiert, und traegt sonst die aktuelle Fassung mit derselben Caption nach. Das erklaert auch die frueheren Phantom-Permalinks vom 08. und 10.09."
+ "permalink_regel": "Wenn Tom einen Beitrag in der App loescht und neu postet, wird die alte media_id ungueltig und die API antwortet mit 'does not exist'. Der taegliche Lauf gleicht deshalb vor dem Ziehen der Zahlen ab, ob die gespeicherte media_id noch existiert, und traegt sonst die aktuelle Fassung mit derselben Caption nach. Das erklaert auch die frueheren Phantom-Permalinks vom 08. und 10.09.",
+ "betriebsmodell": "Tom, 15.09.2026: jedes Stueck laedt Tom selbst in der App hoch und legt dort Trending-Audio darauf. Die API kann keine Musik hinzufuegen, und nachtraeglich laesst sich in der App auch keine mehr ergaenzen. 'manuell' ist deshalb der Normalfall. Der taegliche Lauf veroeffentlicht nichts mehr von sich aus, sondern liefert Tom Video und Caption und gleicht am Folgetag ab, was tatsaechlich online gegangen ist. Nur wenn Tom ausdruecklich 'stumm posten' sagt, wird ein Stueck auf 'auto' gesetzt und ueber die API veroeffentlicht."
 }
