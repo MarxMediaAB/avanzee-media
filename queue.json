@@ -48,23 +48,26 @@
    "hinweis": "Ohne Tonspur. Die erste Fassung mit Glockenbett (DdRldFTDcnb) hat Tom in der App geloescht."
   },
   {
-   "id": "S1-fuenf-sekunden",
+   "id": "04-werte",
    "date": "2026-09-15",
+   "serie": "alt",
+   "kind": "awareness",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "modus": "manuell",
+   "hinweis": "Tom postet selbst mit Trending-Audio. Permalink nachtragen, sobald online."
+  },
+  {
+   "id": "S1-fuenf-sekunden",
+   "date": "2026-09-16",
    "serie": "neu",
    "kind": "signal",
    "status": "queued",
    "media_id": null,
    "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14"
-  },
-  {
-   "id": "04-werte",
-   "date": "2026-09-16",
-   "serie": "alt",
-   "kind": "awareness",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null
+   "freigabe": "Tom, Board 2026-09-14",
+   "hinweis": "Am 15.09. in die dunkle Serie portiert und auf Lesegeschwindigkeit verlangsamt: 34,5 statt 17,0 Sekunden."
   },
   {
    "id": "S2-die-nachricht",
@@ -74,7 +77,9 @@
    "status": "queued",
    "media_id": null,
    "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14"
+   "freigabe": "Tom, Board 2026-09-14",
+   "modus": "offen",
+   "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
   },
   {
    "id": "N2-in-einem-satz",
@@ -102,7 +107,9 @@
    "status": "queued",
    "media_id": null,
    "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14"
+   "freigabe": "Tom, Board 2026-09-14",
+   "modus": "offen",
+   "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
   },
   {
    "id": "N3-halbe-zeit",
@@ -130,7 +137,9 @@
    "status": "queued",
    "media_id": null,
    "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14"
+   "freigabe": "Tom, Board 2026-09-14",
+   "modus": "offen",
+   "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
   },
   {
    "id": "07-traum",
@@ -158,7 +167,9 @@
    "status": "queued",
    "media_id": null,
    "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14"
+   "freigabe": "Tom, Board 2026-09-14",
+   "modus": "offen",
+   "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
   },
   {
    "id": "08-erst-der-mensch",
@@ -199,5 +210,6 @@
   }
  ],
  "historie_geprueft": "2026-09-14 gegen das Konto abgeglichen. Live sind genau drei Beitraege aus dieser Serie: 01 (10.09.), 02 (11.09.), N1 (12.09.). Ein vierter Beitrag vom 08.09. taucht auf dem Konto nicht auf.",
- "tonregel": "Tom, 14.09.2026: alle Videos gehen ohne Tonspur raus. Er legt Trending-Audio in der App darauf, und eine vorhandene Tonspur verhindert das. build.py baut seitdem stumm (AVANZEE_TON=1 stellt das alte Glockenbett wieder her)."
+ "tonregel": "Tom, 14.09.2026: alle Videos gehen ohne Tonspur raus. Er legt Trending-Audio in der App darauf, und eine vorhandene Tonspur verhindert das. build.py baut seitdem stumm (AVANZEE_TON=1 stellt das alte Glockenbett wieder her).",
+ "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 3 und hoechstens 5 Sekunden je Karte."
 }
