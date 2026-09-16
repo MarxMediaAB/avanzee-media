@@ -79,8 +79,8 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "modus": "umbau",
-   "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
+   "modus": "manuell",
+   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Chatverlauf, 23,4 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
   },
   {
    "id": "N2-in-einem-satz",
@@ -111,8 +111,8 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "modus": "umbau",
-   "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
+   "modus": "manuell",
+   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Gegenueberstellung, 18,5 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
   },
   {
    "id": "N3-halbe-zeit",
@@ -143,8 +143,8 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "modus": "umbau",
-   "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
+   "modus": "manuell",
+   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Liste mit Screenshot-Halt, 19,0 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
   },
   {
    "id": "07-traum",
@@ -175,8 +175,8 @@
    "media_id": null,
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
-   "modus": "umbau",
-   "hinweis": "Helle Signal-Optik, wird in dunkel neu gebaut. Bis dahin nicht veroeffentlichen; die Automatik ueberspringt alles, was nicht auf modus auto oder manuell steht."
+   "modus": "manuell",
+   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Karussell, 6 Seiten 1080x1350. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
   },
   {
    "id": "08-erst-der-mensch",
