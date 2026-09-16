@@ -52,21 +52,24 @@
    "date": "2026-09-15",
    "serie": "alt",
    "kind": "awareness",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
+   "status": "posted",
+   "media_id": "17959238427203366",
+   "permalink": "https://www.instagram.com/reel/DdUPupjsw1S/",
    "modus": "manuell",
-   "hinweis": "Tom postet selbst mit Trending-Audio. Permalink nachtragen, sobald online."
+   "hinweis": "von Tom selbst in der App gepostet, mit Trending-Audio",
+   "posted_at": "2026-09-15T17:27:43+0000"
   },
   {
    "id": "05-hinterlassen",
    "date": "2026-09-16",
    "serie": "alt",
    "kind": "awareness",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "modus": "manuell"
+   "status": "posted",
+   "media_id": "18123170666491518",
+   "permalink": "https://www.instagram.com/reel/DdWlWWVs-Wi/",
+   "modus": "manuell",
+   "posted_at": "2026-09-16T15:15:14+0000",
+   "hinweis": "von Tom selbst in der App gepostet, mit Trending-Audio"
   },
   {
    "id": "S2-die-nachricht",
