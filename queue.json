@@ -59,15 +59,13 @@
    "hinweis": "Tom postet selbst mit Trending-Audio. Permalink nachtragen, sobald online."
   },
   {
-   "id": "S1-fuenf-sekunden",
+   "id": "05-hinterlassen",
    "date": "2026-09-16",
-   "serie": "neu",
-   "kind": "signal",
+   "serie": "alt",
+   "kind": "awareness",
    "status": "queued",
    "media_id": null,
    "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14",
-   "hinweis": "In die dunkle Serie portiert und auf 24,8 Sekunden gebracht (Tom: hoechstens 25). Vorher hell und 17,0 Sekunden.",
    "modus": "manuell"
   },
   {
@@ -93,13 +91,15 @@
    "modus": "manuell"
   },
   {
-   "id": "05-hinterlassen",
+   "id": "S1-fuenf-sekunden",
    "date": "2026-09-19",
-   "serie": "alt",
-   "kind": "awareness",
+   "serie": "neu",
+   "kind": "signal",
    "status": "queued",
    "media_id": null,
    "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14",
+   "hinweis": "In die dunkle Serie portiert und auf 24,8 Sekunden gebracht (Tom: hoechstens 25). Vorher hell und 17,0 Sekunden.",
    "modus": "manuell"
   },
   {
