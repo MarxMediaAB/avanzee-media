@@ -221,11 +221,82 @@
    "media_id": null,
    "permalink": null,
    "modus": "manuell"
+  },
+  {
+   "date": "2026-10-01",
+   "id": "F1-drei-fehler",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-02",
+   "id": "O1-kalender",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-03",
+   "id": "K2-wisch-antwort",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-04",
+   "id": "O2-fremde-stimme",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-05",
+   "id": "F2-drei-saetze",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-06",
+   "id": "O3-zwei-listen",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-07",
+   "id": "O4-rueckblick",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-08",
+   "id": "F3-drei-ausreden",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-09",
+   "id": "O5-dienstag",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+  },
+  {
+   "date": "2026-10-10",
+   "id": "O6-eine-frage",
+   "status": "queued",
+   "modus": "manuell",
+   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   }
  ],
  "historie_geprueft": "2026-09-14 gegen das Konto abgeglichen. Live sind genau drei Beitraege aus dieser Serie: 01 (10.09.), 02 (11.09.), N1 (12.09.). Ein vierter Beitrag vom 08.09. taucht auf dem Konto nicht auf.",
  "tonregel": "Tom, 14.09.2026: alle Videos gehen ohne Tonspur raus. Er legt Trending-Audio in der App darauf, und eine vorhandene Tonspur verhindert das. build.py baut seitdem stumm (AVANZEE_TON=1 stellt das alte Glockenbett wieder her).",
  "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 2,4 und hoechstens 3,9 Sekunden je Karte, fertiges Reel hoechstens 25 Sekunden.",
  "permalink_regel": "Wenn Tom einen Beitrag in der App loescht und neu postet, wird die alte media_id ungueltig und die API antwortet mit 'does not exist'. Der taegliche Lauf gleicht deshalb vor dem Ziehen der Zahlen ab, ob die gespeicherte media_id noch existiert, und traegt sonst die aktuelle Fassung mit derselben Caption nach. Das erklaert auch die frueheren Phantom-Permalinks vom 08. und 10.09.",
- "betriebsmodell": "Tom, 15.09.2026: jedes Stueck laedt Tom selbst in der App hoch und legt dort Trending-Audio darauf. Die API kann keine Musik hinzufuegen, und nachtraeglich laesst sich in der App auch keine mehr ergaenzen. 'manuell' ist deshalb der Normalfall. Der taegliche Lauf veroeffentlicht nichts mehr von sich aus, sondern liefert Tom Video und Caption und gleicht am Folgetag ab, was tatsaechlich online gegangen ist. Nur wenn Tom ausdruecklich 'stumm posten' sagt, wird ein Stueck auf 'auto' gesetzt und ueber die API veroeffentlicht."
+ "betriebsmodell": "Tom, 15.09.2026: jedes Stueck laedt Tom selbst in der App hoch und legt dort Trending-Audio darauf. Die API kann keine Musik hinzufuegen, und nachtraeglich laesst sich in der App auch keine mehr ergaenzen. 'manuell' ist deshalb der Normalfall. Der taegliche Lauf veroeffentlicht nichts mehr von sich aus, sondern liefert Tom Video und Caption und gleicht am Folgetag ab, was tatsaechlich online gegangen ist. Nur wenn Tom ausdruecklich 'stumm posten' sagt, wird ein Stueck auf 'auto' gesetzt und ueber die API veroeffentlicht.",
+ "charge_oktober": "Gebaut am 18.09.2026. Auswahl nach gemessener Haltequote, nicht nach Likes: N1 (Behauptung) haelt 61%, 03 (Frage) 49%, 04 (Frage mit Seriennummer) 35%. Deshalb beginnt jedes Stueck mit einer Behauptung und keines traegt eine Seriennummer im Bild. Neue Formate: Fehler-Liste (F1 bis F3) und das Karussell 'Wisch fuer die Antwort' (K2). Freigabe steht noch aus."
 }
