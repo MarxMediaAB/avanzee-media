@@ -72,50 +72,16 @@
    "hinweis": "von Tom selbst in der App gepostet, mit Trending-Audio"
   },
   {
-   "id": "S2-die-nachricht",
-   "date": "2026-09-19",
-   "serie": "neu",
-   "kind": "signal",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14",
-   "modus": "manuell",
-   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Chatverlauf, 23,4 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
-  },
-  {
    "id": "N2-in-einem-satz",
    "date": "2026-09-20",
    "serie": "alt",
    "kind": "cta",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "modus": "manuell"
-  },
-  {
-   "id": "S1-fuenf-sekunden",
-   "date": "2026-09-21",
-   "serie": "neu",
-   "kind": "signal",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14",
-   "hinweis": "In die dunkle Serie portiert und auf 24,8 Sekunden gebracht (Tom: hoechstens 25). Vorher hell und 17,0 Sekunden.",
-   "modus": "manuell"
-  },
-  {
-   "id": "S3-zwei-wege",
-   "date": "2026-09-22",
-   "serie": "neu",
-   "kind": "signal",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14",
+   "status": "posted",
+   "media_id": "18095136344122411",
+   "permalink": "https://www.instagram.com/reel/DdmIDjgol73/",
    "modus": "manuell",
-   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Gegenueberstellung, 18,5 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+   "posted_at": "2026-09-22T16:07:20+0000",
+   "hinweis": "von Tom selbst in der App gepostet, Instagram und Facebook"
   },
   {
    "id": "06-idealer-tag",
@@ -140,7 +106,7 @@
    "modus": "manuell"
   },
   {
-   "id": "S4-screenshot",
+   "id": "S2-die-nachricht",
    "date": "2026-09-24",
    "serie": "neu",
    "kind": "signal",
@@ -149,7 +115,7 @@
    "permalink": null,
    "freigabe": "Tom, Board 2026-09-14",
    "modus": "manuell",
-   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Liste mit Screenshot-Halt, 19,0 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Chatverlauf, 23,4 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
   },
   {
    "id": "07-traum",
@@ -164,8 +130,44 @@
    "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
   },
   {
-   "id": "N4-ein-nachmittag",
+   "id": "S1-fuenf-sekunden",
    "date": "2026-09-25",
+   "serie": "neu",
+   "kind": "signal",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14",
+   "hinweis": "In die dunkle Serie portiert und auf 24,8 Sekunden gebracht (Tom: hoechstens 25). Vorher hell und 17,0 Sekunden.",
+   "modus": "manuell"
+  },
+  {
+   "id": "S3-zwei-wege",
+   "date": "2026-09-26",
+   "serie": "neu",
+   "kind": "signal",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14",
+   "modus": "manuell",
+   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Gegenueberstellung, 18,5 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+  },
+  {
+   "id": "S4-screenshot",
+   "date": "2026-09-27",
+   "serie": "neu",
+   "kind": "signal",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "freigabe": "Tom, Board 2026-09-14",
+   "modus": "manuell",
+   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Liste mit Screenshot-Halt, 19,0 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+  },
+  {
+   "id": "N4-ein-nachmittag",
+   "date": "2026-09-28",
    "serie": "alt",
    "kind": "cta",
    "status": "queued",
@@ -175,7 +177,7 @@
   },
   {
    "id": "K1-ziele-scheitern",
-   "date": "2026-09-26",
+   "date": "2026-09-29",
    "serie": "neu",
    "kind": "signal",
    "status": "queued",
@@ -187,7 +189,7 @@
   },
   {
    "id": "08-erst-der-mensch",
-   "date": "2026-09-27",
+   "date": "2026-09-30",
    "serie": "alt",
    "kind": "awareness",
    "status": "queued",
@@ -198,7 +200,7 @@
   },
   {
    "id": "N5-wessen-ziel",
-   "date": "2026-09-28",
+   "date": "2026-10-01",
    "serie": "alt",
    "kind": "cta",
    "status": "queued",
@@ -208,7 +210,7 @@
   },
   {
    "id": "09-nordstern-satz",
-   "date": "2026-09-29",
+   "date": "2026-10-02",
    "serie": "alt",
    "kind": "awareness",
    "status": "queued",
@@ -218,7 +220,7 @@
   },
   {
    "id": "N6-wendepunkt",
-   "date": "2026-09-30",
+   "date": "2026-10-03",
    "serie": "alt",
    "kind": "cta",
    "status": "queued",
@@ -227,70 +229,70 @@
    "modus": "manuell"
   },
   {
-   "date": "2026-10-01",
+   "date": "2026-10-04",
    "id": "F1-drei-fehler",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-02",
+   "date": "2026-10-05",
    "id": "O1-kalender",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-03",
+   "date": "2026-10-06",
    "id": "K2-wisch-antwort",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-04",
+   "date": "2026-10-07",
    "id": "O2-fremde-stimme",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-05",
+   "date": "2026-10-08",
    "id": "F2-drei-saetze",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-06",
+   "date": "2026-10-09",
    "id": "O3-zwei-listen",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-07",
+   "date": "2026-10-10",
    "id": "O4-rueckblick",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-08",
+   "date": "2026-10-11",
    "id": "F3-drei-ausreden",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "id": "O5-dienstag",
    "status": "queued",
    "modus": "manuell",
    "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
   },
   {
-   "date": "2026-10-10",
+   "date": "2026-10-13",
    "id": "O6-eine-frage",
    "status": "queued",
    "modus": "manuell",
