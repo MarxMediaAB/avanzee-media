@@ -96,16 +96,6 @@
    "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
   },
   {
-   "id": "N3-halbe-zeit",
-   "date": "2026-09-23",
-   "serie": "alt",
-   "kind": "cta",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "modus": "manuell"
-  },
-  {
    "id": "S2-die-nachricht",
    "date": "2026-09-24",
    "serie": "neu",
@@ -130,8 +120,18 @@
    "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
   },
   {
-   "id": "S1-fuenf-sekunden",
+   "id": "N3-halbe-zeit",
    "date": "2026-09-25",
+   "serie": "alt",
+   "kind": "cta",
+   "status": "queued",
+   "media_id": null,
+   "permalink": null,
+   "modus": "manuell"
+  },
+  {
+   "id": "S1-fuenf-sekunden",
+   "date": "2026-09-26",
    "serie": "neu",
    "kind": "signal",
    "status": "queued",
@@ -146,12 +146,13 @@
    "date": "2026-09-26",
    "serie": "neu",
    "kind": "signal",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
+   "status": "posted",
+   "media_id": "18122671432928035",
+   "permalink": "https://www.instagram.com/reel/DdotYaasRrU/",
    "freigabe": "Tom, Board 2026-09-14",
    "modus": "manuell",
-   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Gegenueberstellung, 18,5 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+   "hinweis": "von Tom selbst in der App gepostet",
+   "posted_at": "2026-09-23T16:11:38+0000"
   },
   {
    "id": "S4-screenshot",
