@@ -100,12 +100,13 @@
    "date": "2026-09-24",
    "serie": "neu",
    "kind": "signal",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
+   "status": "posted",
+   "media_id": "18353122789170086",
+   "permalink": "https://www.instagram.com/reel/DdrTZS1MKGZ/",
    "freigabe": "Tom, Board 2026-09-14",
    "modus": "manuell",
-   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Chatverlauf, 23,4 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+   "hinweis": "von Tom selbst in der App gepostet",
+   "posted_at": "2026-09-24T16:22:25+0000"
   },
   {
    "id": "07-traum",
