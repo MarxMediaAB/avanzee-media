@@ -125,10 +125,12 @@
    "date": "2026-09-25",
    "serie": "alt",
    "kind": "cta",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "modus": "manuell"
+   "status": "posted",
+   "media_id": "18115777351893972",
+   "permalink": "https://www.instagram.com/reel/Ddt5zhKMAz3/",
+   "modus": "manuell",
+   "posted_at": "2026-09-25T16:36:21+0000",
+   "hinweis": "von Tom selbst in der App gepostet"
   },
   {
    "id": "S1-fuenf-sekunden",
