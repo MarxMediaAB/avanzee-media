@@ -91,3 +91,17 @@ Reichweite und Views sind über `INSTAGRAM_GET_IG_MEDIA_INSIGHTS` abrufbar
 (`views`, `reach`, `shares`, `saved`, `likes`, `comments`), trotz der in der
 Dokumentation genannten Schwelle von 1000 Followern. Likes allein sind bei
 dieser Kontogröße kein brauchbares Signal.
+
+Der Instagram-Wert `views` zählt nur Instagram. Tom crosspostet jedes Reel
+auf die Facebook-Seite Avanzee-Deutsch (page_id 1147723595091445), und die
+Zahl, die er in der App auf dem Reel-Raster sieht, enthält die
+Facebook-Views mit. Bisher liegen etwa 90 Prozent aller Views auf Facebook.
+Die Facebook-Zahl kommt aus `FACEBOOK_GET_PAGE_VIDEOS` (fields
+`id,created_time,description,length,views,permalink_url`), Zuordnung über
+die erste Zeile der description. Jede Zahlenmeldung nennt pro Stück drei
+Werte: Instagram, Facebook, Summe. Ein Instagram-Wert von 5 bis 40 ist
+normal und kein Zeichen für Drosselung.
+
+Stand 26.09.2026 (Instagram-API / Facebook / Summe):
+N1 18/444/462, 04 unter 10/328/335, 06 6/229/235, N3 offen/261/261,
+S2 7/203/210, S3 offen/228/230, 07 30/1/31, 02 41/0/41.
