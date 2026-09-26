@@ -105,3 +105,13 @@ normal und kein Zeichen für Drosselung.
 Stand 26.09.2026 (Instagram-API / Facebook / Summe):
 N1 18/444/462, 04 unter 10/328/335, 06 6/229/235, N3 offen/261/261,
 S2 7/203/210, S3 offen/228/230, 07 30/1/31, 02 41/0/41.
+
+## Kommunikation mit Tom (Regel vom 26.09.2026, dauerhaft)
+
+Jede Nachricht an Tom ist eindeutig und ohne Interpretationsspielraum.
+Keine Formulierungen wie "sag Bescheid", "gib das Wort", "wenn du willst",
+"bei Bedarf". Stattdessen immer eine klare Aufforderung mit Objekt und
+erwarteter Antwort, zum Beispiel: "Antworte mit JA oder NEIN auf Punkt 1"
+oder "Poste S1 heute mit dieser Caption". Offene Punkte werden als
+nummerierte Liste mit der genauen erwarteten Antwort gestellt. Zeitangaben
+in CET, ohne Zonennamen wie Europe/Berlin.
