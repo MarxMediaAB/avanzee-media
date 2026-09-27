@@ -115,3 +115,19 @@ erwarteter Antwort, zum Beispiel: "Antworte mit JA oder NEIN auf Punkt 1"
 oder "Poste S1 heute mit dieser Caption". Offene Punkte werden als
 nummerierte Liste mit der genauen erwarteten Antwort gestellt. Zeitangaben
 in CET, ohne Zonennamen wie Europe/Berlin.
+
+## Kennzahl (Freigabe 27.09.2026)
+
+Wochenmetrik: neue bestätigte Abonnenten über avanzee.com/lt. Quelle ist
+die Supabase-Tabelle `newsletter_subscribers` (source 'lt', confirmed_at
+gesetzt, unsubscribed_at leer). Workbook-Auslieferungen stehen in
+`guide_requests` (pdf_sent_at). Kein HubSpot, Mailversand über Resend.
+Die Zählung läuft als SQL im Supabase-Editor, siehe `kamera/skripte-woche1.md`
+und die Wochenabfrage in `tools/wochenzahlen.sql`.
+
+## Kanäle (Freigabe 27.09.2026)
+
+Jedes Stück geht auf Instagram, Facebook (Seite Avanzee-Deutsch) und ab
+01.10.2026 als YouTube Short. Short: Titel = erste Caption-Zeile,
+Beschreibung = komplette Caption. CTA-Zeile für alle Oktober-Reels:
+"Hol dir das Workbook. Link in der Bio, avanzee.com/lt. Kostenlos!"
