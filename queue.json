@@ -1,312 +1,313 @@
 {
- "account": "avanzeelife_de",
- "cadence": "taeglich, 18:00 Europe/Berlin. Der Lauf liefert das Paket, Tom postet. Faellt ein Stueck aus, rueckt das naechste nach, damit die Kette haelt.",
- "approved_by_tom": true,
- "hinweis": "Taeglich. Der Trigger veroeffentlicht ausschliesslich Eintraege mit status 'queued'. 'needs_approval' und 'awaiting_approval' werden uebersprungen, nie automatisch gepostet.",
- "posts": [
-  {
-   "id": "01-bereuen",
-   "date": "2026-09-10",
-   "kind": "awareness",
-   "status": "posted",
-   "media_id": "17887891845458765",
-   "permalink": "https://www.instagram.com/reel/DdHJqU-sCEm/",
-   "posted_at": "2026-09-10T15:24:48+0000",
-   "hinweis": "Von Tom in der App gepostet, mit Trending-Audio. Der frueher hier vermerkte Permalink DdCnt2MCQw6 existiert auf dem Konto nicht."
-  },
-  {
-   "id": "02-zeit-vergessen",
-   "date": "2026-09-11",
-   "kind": "awareness",
-   "status": "posted",
-   "media_id": "18388355452206112",
-   "permalink": "https://www.instagram.com/reel/DdInUbhsNtt/",
-   "posted_at": "2026-09-11T05:03:26+0000",
-   "hinweis": "Von Tom in der App gepostet, mit Trending-Audio. Der frueher hier vermerkte Permalink DdG8SsAiCZw existiert auf dem Konto nicht."
-  },
-  {
-   "id": "N1-neunzig-tage",
-   "date": "2026-09-12",
-   "serie": "alt",
-   "kind": "cta",
-   "status": "posted",
-   "media_id": "18123159467476783",
-   "permalink": "https://www.instagram.com/reel/DdLrNkJMPN_/",
-   "posted_at": "2026-09-12T09:36:14+0000",
-   "posted_by": "Tom, manuell",
-   "hinweis": "Ueber die API veroeffentlicht. Datum war mit 2026-09-11 falsch vermerkt."
-  },
-  {
-   "id": "03-niemand-schaut-zu",
-   "date": "2026-09-14",
-   "serie": "alt",
-   "kind": "awareness",
-   "status": "posted",
-   "media_id": "18136382950712550",
-   "permalink": "https://www.instagram.com/reel/DdRrBg1sXYm/",
-   "posted_at": "2026-09-14T17:28:24+0000",
-   "hinweis": "Von Tom in der App neu gepostet. Die ueber die API veroeffentlichte stumme Fassung (DdRnsWzDQrl) ist geloescht."
-  },
-  {
-   "id": "04-werte",
-   "date": "2026-09-15",
-   "serie": "alt",
-   "kind": "awareness",
-   "status": "posted",
-   "media_id": "17959238427203366",
-   "permalink": "https://www.instagram.com/reel/DdUPupjsw1S/",
-   "modus": "manuell",
-   "hinweis": "von Tom selbst in der App gepostet, mit Trending-Audio",
-   "posted_at": "2026-09-15T17:27:43+0000"
-  },
-  {
-   "id": "05-hinterlassen",
-   "date": "2026-09-16",
-   "serie": "alt",
-   "kind": "awareness",
-   "status": "posted",
-   "media_id": "18123170666491518",
-   "permalink": "https://www.instagram.com/reel/DdWlWWVs-Wi/",
-   "modus": "manuell",
-   "posted_at": "2026-09-16T15:15:14+0000",
-   "hinweis": "von Tom selbst in der App gepostet, mit Trending-Audio"
-  },
-  {
-   "id": "N2-in-einem-satz",
-   "date": "2026-09-20",
-   "serie": "alt",
-   "kind": "cta",
-   "status": "posted",
-   "media_id": "18095136344122411",
-   "permalink": "https://www.instagram.com/reel/DdmIDjgol73/",
-   "modus": "manuell",
-   "posted_at": "2026-09-22T16:07:20+0000",
-   "hinweis": "von Tom selbst in der App gepostet, Instagram und Facebook"
-  },
-  {
-   "id": "06-idealer-tag",
-   "date": "2026-09-22",
-   "serie": "alt",
-   "kind": "awareness",
-   "status": "posted",
-   "media_id": "18109994723581764",
-   "permalink": "https://www.instagram.com/reel/DdZkJqqsHTS/",
-   "modus": "manuell",
-   "posted_at": "2026-09-17T19:02:33+0000",
-   "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
-  },
-  {
-   "id": "S2-die-nachricht",
-   "date": "2026-09-24",
-   "serie": "neu",
-   "kind": "signal",
-   "status": "posted",
-   "media_id": "18353122789170086",
-   "permalink": "https://www.instagram.com/reel/DdrTZS1MKGZ/",
-   "freigabe": "Tom, Board 2026-09-14",
-   "modus": "manuell",
-   "hinweis": "von Tom selbst in der App gepostet",
-   "posted_at": "2026-09-24T16:22:25+0000"
-  },
-  {
-   "id": "07-traum",
-   "date": "2026-09-24",
-   "serie": "alt",
-   "kind": "awareness",
-   "status": "posted",
-   "media_id": "17944453536323234",
-   "permalink": "https://www.instagram.com/reel/DdbTB6FssJD/",
-   "modus": "manuell",
-   "posted_at": "2026-09-18T11:11:28+0000",
-   "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
-  },
-  {
-   "id": "N3-halbe-zeit",
-   "date": "2026-09-25",
-   "serie": "alt",
-   "kind": "cta",
-   "status": "posted",
-   "media_id": "18115777351893972",
-   "permalink": "https://www.instagram.com/reel/Ddt5zhKMAz3/",
-   "modus": "manuell",
-   "posted_at": "2026-09-25T16:36:21+0000",
-   "hinweis": "von Tom selbst in der App gepostet"
-  },
-  {
-   "id": "S1-fuenf-sekunden",
-   "date": "2026-09-26",
-   "serie": "neu",
-   "kind": "signal",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14",
-   "hinweis": "In die dunkle Serie portiert und auf 24,8 Sekunden gebracht (Tom: hoechstens 25). Vorher hell und 17,0 Sekunden.",
-   "modus": "manuell"
-  },
-  {
-   "id": "S3-zwei-wege",
-   "date": "2026-09-26",
-   "serie": "neu",
-   "kind": "signal",
-   "status": "posted",
-   "media_id": "18122671432928035",
-   "permalink": "https://www.instagram.com/reel/DdotYaasRrU/",
-   "freigabe": "Tom, Board 2026-09-14",
-   "modus": "manuell",
-   "hinweis": "von Tom selbst in der App gepostet",
-   "posted_at": "2026-09-23T16:11:38+0000"
-  },
-  {
-   "id": "S4-screenshot",
-   "date": "2026-09-27",
-   "serie": "neu",
-   "kind": "signal",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14",
-   "modus": "manuell",
-   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Liste mit Screenshot-Halt, 19,0 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
-  },
-  {
-   "id": "N4-ein-nachmittag",
-   "date": "2026-09-28",
-   "serie": "alt",
-   "kind": "cta",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "modus": "manuell"
-  },
-  {
-   "id": "K1-ziele-scheitern",
-   "date": "2026-09-29",
-   "serie": "neu",
-   "kind": "signal",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "freigabe": "Tom, Board 2026-09-14",
-   "modus": "manuell",
-   "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Karussell, 6 Seiten 1080x1350. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
-  },
-  {
-   "id": "08-erst-der-mensch",
-   "date": "2026-09-30",
-   "serie": "alt",
-   "kind": "awareness",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "freigabe": "Tom, 2026-09-14",
-   "modus": "manuell"
-  },
-  {
-   "id": "N5-wessen-ziel",
-   "date": "2026-10-01",
-   "serie": "alt",
-   "kind": "cta",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "modus": "manuell"
-  },
-  {
-   "id": "09-nordstern-satz",
-   "date": "2026-10-02",
-   "serie": "alt",
-   "kind": "awareness",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "modus": "manuell"
-  },
-  {
-   "id": "N6-wendepunkt",
-   "date": "2026-10-03",
-   "serie": "alt",
-   "kind": "cta",
-   "status": "queued",
-   "media_id": null,
-   "permalink": null,
-   "modus": "manuell"
-  },
-  {
-   "date": "2026-10-04",
-   "id": "F1-drei-fehler",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-05",
-   "id": "O1-kalender",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-06",
-   "id": "K2-wisch-antwort",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-07",
-   "id": "O2-fremde-stimme",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-08",
-   "id": "F2-drei-saetze",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-09",
-   "id": "O3-zwei-listen",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-10",
-   "id": "O4-rueckblick",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-11",
-   "id": "F3-drei-ausreden",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-12",
-   "id": "O5-dienstag",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  },
-  {
-   "date": "2026-10-13",
-   "id": "O6-eine-frage",
-   "status": "queued",
-   "modus": "manuell",
-   "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
-  }
- ],
- "historie_geprueft": "2026-09-14 gegen das Konto abgeglichen. Live sind genau drei Beitraege aus dieser Serie: 01 (10.09.), 02 (11.09.), N1 (12.09.). Ein vierter Beitrag vom 08.09. taucht auf dem Konto nicht auf.",
- "tonregel": "Tom, 14.09.2026: alle Videos gehen ohne Tonspur raus. Er legt Trending-Audio in der App darauf, und eine vorhandene Tonspur verhindert das. build.py baut seitdem stumm (AVANZEE_TON=1 stellt das alte Glockenbett wieder her).",
- "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 2,4 und hoechstens 3,9 Sekunden je Karte, fertiges Reel hoechstens 25 Sekunden.",
- "permalink_regel": "Wenn Tom einen Beitrag in der App loescht und neu postet, wird die alte media_id ungueltig und die API antwortet mit 'does not exist'. Der taegliche Lauf gleicht deshalb vor dem Ziehen der Zahlen ab, ob die gespeicherte media_id noch existiert, und traegt sonst die aktuelle Fassung mit derselben Caption nach. Das erklaert auch die frueheren Phantom-Permalinks vom 08. und 10.09.",
- "betriebsmodell": "Tom, 15.09.2026: jedes Stueck laedt Tom selbst in der App hoch und legt dort Trending-Audio darauf. Die API kann keine Musik hinzufuegen, und nachtraeglich laesst sich in der App auch keine mehr ergaenzen. 'manuell' ist deshalb der Normalfall. Der taegliche Lauf veroeffentlicht nichts mehr von sich aus, sondern liefert Tom Video und Caption und gleicht am Folgetag ab, was tatsaechlich online gegangen ist. Nur wenn Tom ausdruecklich 'stumm posten' sagt, wird ein Stueck auf 'auto' gesetzt und ueber die API veroeffentlicht.",
- "charge_oktober": "Gebaut am 18.09.2026. Auswahl nach gemessener Haltequote, nicht nach Likes: N1 (Behauptung) haelt 61%, 03 (Frage) 49%, 04 (Frage mit Seriennummer) 35%. Deshalb beginnt jedes Stueck mit einer Behauptung und keines traegt eine Seriennummer im Bild. Neue Formate: Fehler-Liste (F1 bis F3) und das Karussell 'Wisch fuer die Antwort' (K2). Freigabe steht noch aus."
+  "account": "avanzeelife_de",
+  "cadence": "taeglich, 18:00 Europe/Berlin. Der Lauf liefert das Paket, Tom postet. Faellt ein Stueck aus, rueckt das naechste nach, damit die Kette haelt.",
+  "approved_by_tom": true,
+  "hinweis": "Taeglich. Der Trigger veroeffentlicht ausschliesslich Eintraege mit status 'queued'. 'needs_approval' und 'awaiting_approval' werden uebersprungen, nie automatisch gepostet.",
+  "posts": [
+    {
+      "id": "01-bereuen",
+      "date": "2026-09-10",
+      "kind": "awareness",
+      "status": "posted",
+      "media_id": "17887891845458765",
+      "permalink": "https://www.instagram.com/reel/DdHJqU-sCEm/",
+      "posted_at": "2026-09-10T15:24:48+0000",
+      "hinweis": "Von Tom in der App gepostet, mit Trending-Audio. Der frueher hier vermerkte Permalink DdCnt2MCQw6 existiert auf dem Konto nicht."
+    },
+    {
+      "id": "02-zeit-vergessen",
+      "date": "2026-09-11",
+      "kind": "awareness",
+      "status": "posted",
+      "media_id": "18388355452206112",
+      "permalink": "https://www.instagram.com/reel/DdInUbhsNtt/",
+      "posted_at": "2026-09-11T05:03:26+0000",
+      "hinweis": "Von Tom in der App gepostet, mit Trending-Audio. Der frueher hier vermerkte Permalink DdG8SsAiCZw existiert auf dem Konto nicht."
+    },
+    {
+      "id": "N1-neunzig-tage",
+      "date": "2026-09-12",
+      "serie": "alt",
+      "kind": "cta",
+      "status": "posted",
+      "media_id": "18123159467476783",
+      "permalink": "https://www.instagram.com/reel/DdLrNkJMPN_/",
+      "posted_at": "2026-09-12T09:36:14+0000",
+      "posted_by": "Tom, manuell",
+      "hinweis": "Ueber die API veroeffentlicht. Datum war mit 2026-09-11 falsch vermerkt."
+    },
+    {
+      "id": "03-niemand-schaut-zu",
+      "date": "2026-09-14",
+      "serie": "alt",
+      "kind": "awareness",
+      "status": "posted",
+      "media_id": "18136382950712550",
+      "permalink": "https://www.instagram.com/reel/DdRrBg1sXYm/",
+      "posted_at": "2026-09-14T17:28:24+0000",
+      "hinweis": "Von Tom in der App neu gepostet. Die ueber die API veroeffentlichte stumme Fassung (DdRnsWzDQrl) ist geloescht."
+    },
+    {
+      "id": "04-werte",
+      "date": "2026-09-15",
+      "serie": "alt",
+      "kind": "awareness",
+      "status": "posted",
+      "media_id": "17959238427203366",
+      "permalink": "https://www.instagram.com/reel/DdUPupjsw1S/",
+      "modus": "manuell",
+      "hinweis": "von Tom selbst in der App gepostet, mit Trending-Audio",
+      "posted_at": "2026-09-15T17:27:43+0000"
+    },
+    {
+      "id": "05-hinterlassen",
+      "date": "2026-09-16",
+      "serie": "alt",
+      "kind": "awareness",
+      "status": "posted",
+      "media_id": "18123170666491518",
+      "permalink": "https://www.instagram.com/reel/DdWlWWVs-Wi/",
+      "modus": "manuell",
+      "posted_at": "2026-09-16T15:15:14+0000",
+      "hinweis": "von Tom selbst in der App gepostet, mit Trending-Audio"
+    },
+    {
+      "id": "N2-in-einem-satz",
+      "date": "2026-09-20",
+      "serie": "alt",
+      "kind": "cta",
+      "status": "posted",
+      "media_id": "18095136344122411",
+      "permalink": "https://www.instagram.com/reel/DdmIDjgol73/",
+      "modus": "manuell",
+      "posted_at": "2026-09-22T16:07:20+0000",
+      "hinweis": "von Tom selbst in der App gepostet, Instagram und Facebook"
+    },
+    {
+      "id": "06-idealer-tag",
+      "date": "2026-09-22",
+      "serie": "alt",
+      "kind": "awareness",
+      "status": "posted",
+      "media_id": "18109994723581764",
+      "permalink": "https://www.instagram.com/reel/DdZkJqqsHTS/",
+      "modus": "manuell",
+      "posted_at": "2026-09-17T19:02:33+0000",
+      "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
+    },
+    {
+      "id": "S2-die-nachricht",
+      "date": "2026-09-24",
+      "serie": "neu",
+      "kind": "signal",
+      "status": "posted",
+      "media_id": "18353122789170086",
+      "permalink": "https://www.instagram.com/reel/DdrTZS1MKGZ/",
+      "freigabe": "Tom, Board 2026-09-14",
+      "modus": "manuell",
+      "hinweis": "von Tom selbst in der App gepostet",
+      "posted_at": "2026-09-24T16:22:25+0000"
+    },
+    {
+      "id": "07-traum",
+      "date": "2026-09-24",
+      "serie": "alt",
+      "kind": "awareness",
+      "status": "posted",
+      "media_id": "17944453536323234",
+      "permalink": "https://www.instagram.com/reel/DdbTB6FssJD/",
+      "modus": "manuell",
+      "posted_at": "2026-09-18T11:11:28+0000",
+      "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
+    },
+    {
+      "id": "N3-halbe-zeit",
+      "date": "2026-09-25",
+      "serie": "alt",
+      "kind": "cta",
+      "status": "posted",
+      "media_id": "18115777351893972",
+      "permalink": "https://www.instagram.com/reel/Ddt5zhKMAz3/",
+      "modus": "manuell",
+      "posted_at": "2026-09-25T16:36:21+0000",
+      "hinweis": "von Tom selbst in der App gepostet"
+    },
+    {
+      "id": "S1-fuenf-sekunden",
+      "date": "2026-09-26",
+      "serie": "neu",
+      "kind": "signal",
+      "status": "posted",
+      "media_id": "18073416398571388",
+      "permalink": "https://www.instagram.com/reel/DdwdV0IMX_3/",
+      "freigabe": "Tom, Board 2026-09-14",
+      "hinweis": "von Tom selbst in der App gepostet",
+      "modus": "manuell",
+      "posted_at": "2026-09-26T16:25:48+0000"
+    },
+    {
+      "id": "S3-zwei-wege",
+      "date": "2026-09-26",
+      "serie": "neu",
+      "kind": "signal",
+      "status": "posted",
+      "media_id": "18122671432928035",
+      "permalink": "https://www.instagram.com/reel/DdotYaasRrU/",
+      "freigabe": "Tom, Board 2026-09-14",
+      "modus": "manuell",
+      "hinweis": "von Tom selbst in der App gepostet",
+      "posted_at": "2026-09-23T16:11:38+0000"
+    },
+    {
+      "id": "S4-screenshot",
+      "date": "2026-09-27",
+      "serie": "neu",
+      "kind": "signal",
+      "status": "queued",
+      "media_id": null,
+      "permalink": null,
+      "freigabe": "Tom, Board 2026-09-14",
+      "modus": "manuell",
+      "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Liste mit Screenshot-Halt, 19,0 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+    },
+    {
+      "id": "N4-ein-nachmittag",
+      "date": "2026-09-28",
+      "serie": "alt",
+      "kind": "cta",
+      "status": "queued",
+      "media_id": null,
+      "permalink": null,
+      "modus": "manuell"
+    },
+    {
+      "id": "K1-ziele-scheitern",
+      "date": "2026-09-29",
+      "serie": "neu",
+      "kind": "signal",
+      "status": "queued",
+      "media_id": null,
+      "permalink": null,
+      "freigabe": "Tom, Board 2026-09-14",
+      "modus": "manuell",
+      "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Karussell, 6 Seiten 1080x1350. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+    },
+    {
+      "id": "08-erst-der-mensch",
+      "date": "2026-09-30",
+      "serie": "alt",
+      "kind": "awareness",
+      "status": "queued",
+      "media_id": null,
+      "permalink": null,
+      "freigabe": "Tom, 2026-09-14",
+      "modus": "manuell"
+    },
+    {
+      "id": "N5-wessen-ziel",
+      "date": "2026-10-01",
+      "serie": "alt",
+      "kind": "cta",
+      "status": "queued",
+      "media_id": null,
+      "permalink": null,
+      "modus": "manuell"
+    },
+    {
+      "id": "09-nordstern-satz",
+      "date": "2026-10-02",
+      "serie": "alt",
+      "kind": "awareness",
+      "status": "queued",
+      "media_id": null,
+      "permalink": null,
+      "modus": "manuell"
+    },
+    {
+      "id": "N6-wendepunkt",
+      "date": "2026-10-03",
+      "serie": "alt",
+      "kind": "cta",
+      "status": "queued",
+      "media_id": null,
+      "permalink": null,
+      "modus": "manuell"
+    },
+    {
+      "date": "2026-10-04",
+      "id": "F1-drei-fehler",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "O1-kalender",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-06",
+      "id": "K2-wisch-antwort",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-07",
+      "id": "O2-fremde-stimme",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-08",
+      "id": "F2-drei-saetze",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-09",
+      "id": "O3-zwei-listen",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-10",
+      "id": "O4-rueckblick",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-11",
+      "id": "F3-drei-ausreden",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "O5-dienstag",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    },
+    {
+      "date": "2026-10-13",
+      "id": "O6-eine-frage",
+      "status": "queued",
+      "modus": "manuell",
+      "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
+    }
+  ],
+  "historie_geprueft": "2026-09-14 gegen das Konto abgeglichen. Live sind genau drei Beitraege aus dieser Serie: 01 (10.09.), 02 (11.09.), N1 (12.09.). Ein vierter Beitrag vom 08.09. taucht auf dem Konto nicht auf.",
+  "tonregel": "Tom, 14.09.2026: alle Videos gehen ohne Tonspur raus. Er legt Trending-Audio in der App darauf, und eine vorhandene Tonspur verhindert das. build.py baut seitdem stumm (AVANZEE_TON=1 stellt das alte Glockenbett wieder her).",
+  "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 2,4 und hoechstens 3,9 Sekunden je Karte, fertiges Reel hoechstens 25 Sekunden.",
+  "permalink_regel": "Wenn Tom einen Beitrag in der App loescht und neu postet, wird die alte media_id ungueltig und die API antwortet mit 'does not exist'. Der taegliche Lauf gleicht deshalb vor dem Ziehen der Zahlen ab, ob die gespeicherte media_id noch existiert, und traegt sonst die aktuelle Fassung mit derselben Caption nach. Das erklaert auch die frueheren Phantom-Permalinks vom 08. und 10.09.",
+  "betriebsmodell": "Tom, 15.09.2026: jedes Stueck laedt Tom selbst in der App hoch und legt dort Trending-Audio darauf. Die API kann keine Musik hinzufuegen, und nachtraeglich laesst sich in der App auch keine mehr ergaenzen. 'manuell' ist deshalb der Normalfall. Der taegliche Lauf veroeffentlicht nichts mehr von sich aus, sondern liefert Tom Video und Caption und gleicht am Folgetag ab, was tatsaechlich online gegangen ist. Nur wenn Tom ausdruecklich 'stumm posten' sagt, wird ein Stueck auf 'auto' gesetzt und ueber die API veroeffentlicht.",
+  "charge_oktober": "Gebaut am 18.09.2026. Auswahl nach gemessener Haltequote, nicht nach Likes: N1 (Behauptung) haelt 61%, 03 (Frage) 49%, 04 (Frage mit Seriennummer) 35%. Deshalb beginnt jedes Stueck mit einer Behauptung und keines traegt eine Seriennummer im Bild. Neue Formate: Fehler-Liste (F1 bis F3) und das Karussell 'Wisch fuer die Antwort' (K2). Freigabe steht noch aus."
 }
