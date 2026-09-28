@@ -163,16 +163,17 @@
       "date": "2026-09-27",
       "serie": "neu",
       "kind": "signal",
-      "status": "queued",
-      "media_id": null,
-      "permalink": null,
+      "status": "posted",
+      "media_id": "18335395051272471",
+      "permalink": "https://www.instagram.com/reel/Dd1kfIFMF8j/",
       "freigabe": "Tom, Board 2026-09-14",
       "modus": "manuell",
-      "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Liste mit Screenshot-Halt, 19,0 s. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+      "hinweis": "von Tom selbst in der App gepostet, einen Tag nach Lieferung",
+      "posted_at": "2026-09-28T16:04:06+0000"
     },
     {
       "id": "N4-ein-nachmittag",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "serie": "alt",
       "kind": "cta",
       "status": "queued",
@@ -182,7 +183,7 @@
     },
     {
       "id": "K1-ziele-scheitern",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "serie": "neu",
       "kind": "signal",
       "status": "queued",
@@ -194,7 +195,7 @@
     },
     {
       "id": "08-erst-der-mensch",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "serie": "alt",
       "kind": "awareness",
       "status": "queued",
@@ -205,7 +206,7 @@
     },
     {
       "id": "N5-wessen-ziel",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "serie": "alt",
       "kind": "cta",
       "status": "queued",
@@ -215,7 +216,7 @@
     },
     {
       "id": "09-nordstern-satz",
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "serie": "alt",
       "kind": "awareness",
       "status": "queued",
@@ -225,7 +226,7 @@
     },
     {
       "id": "N6-wendepunkt",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "serie": "alt",
       "kind": "cta",
       "status": "queued",
@@ -234,70 +235,70 @@
       "modus": "manuell"
     },
     {
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "id": "F1-drei-fehler",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "id": "O1-kalender",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "id": "K2-wisch-antwort",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "id": "O2-fremde-stimme",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "id": "F2-drei-saetze",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "id": "O3-zwei-listen",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "id": "O4-rueckblick",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "id": "F3-drei-ausreden",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "id": "O5-dienstag",
       "status": "queued",
       "modus": "manuell",
       "hinweis": "Charge Oktober, Freigabe im Review-Board offen"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "id": "O6-eine-frage",
       "status": "queued",
       "modus": "manuell",
