@@ -176,10 +176,12 @@
       "date": "2026-09-29",
       "serie": "alt",
       "kind": "cta",
-      "status": "queued",
-      "media_id": null,
-      "permalink": null,
-      "modus": "manuell"
+      "status": "posted",
+      "media_id": "18634484827009734",
+      "permalink": "https://www.instagram.com/reel/Dd4DliyslMV/",
+      "modus": "manuell",
+      "posted_at": "2026-09-29T15:14:13+0000",
+      "hinweis": "von Tom selbst in der App gepostet"
     },
     {
       "id": "K1-ziele-scheitern",
