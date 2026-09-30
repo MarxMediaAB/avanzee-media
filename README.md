@@ -131,3 +131,17 @@ Jedes Stück geht auf Instagram, Facebook (Seite Avanzee-Deutsch) und ab
 01.10.2026 als YouTube Short. Short: Titel = erste Caption-Zeile,
 Beschreibung = komplette Caption. CTA-Zeile für alle Oktober-Reels:
 "Hol dir das Workbook. Link in der Bio, avanzee.com/lt. Kostenlos!"
+
+## Grundgerüst und persönliche Note (Entscheidung 30.09.2026)
+
+Die Oktober-Charge ist angehalten (modus umbau). Ablauf: Tom liefert bis
+03.10. Screenshots (Textoverlay und Caption) von 3 bis 5 viralen Reels aus
+2 bis 3 grossen deutschsprachigen Accounts der Nische. Daraus entsteht ein
+dokumentiertes Grundgerüst: Overlay-Struktur, Caption-Gliederung, drei
+psychologische Trigger. Alle Oktober-Stücke werden dagegen geprüft und
+umgebaut, danach Freigabe auf dem Board, Start 05.10.
+
+Ab Oktober enthält jede Caption eine markierte Stelle [DEIN SATZ] für einen
+Satz von Tom (Erfahrung, Beispiel, Meinung). Zu jeder Caption liefert der
+Lauf zwei Satzvorschläge als Inspiration. Tom schreibt den Satz selbst,
+der Rest der Caption bleibt unverändert.
