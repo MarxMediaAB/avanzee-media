@@ -116,6 +116,11 @@ oder "Poste S1 heute mit dieser Caption". Offene Punkte werden als
 nummerierte Liste mit der genauen erwarteten Antwort gestellt. Zeitangaben
 in CET, ohne Zonennamen wie Europe/Berlin.
 
+Jedes Stück wird gegenüber Tom immer mit Kürzel UND Überschrift genannt
+(Regel vom 30.09.2026): die Überschrift ist die erste Zeile der Caption,
+zum Beispiel "S4, 7 Fragen, die dein nächstes Jahr beeinflussen werden".
+Das Kürzel allein reicht nie, auch nicht in Tabellen.
+
 ## Kennzahl (Freigabe 27.09.2026)
 
 Wochenmetrik: neue bestätigte Abonnenten über avanzee.com/lt. Quelle ist
