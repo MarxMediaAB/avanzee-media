@@ -150,3 +150,13 @@ Ab Oktober enthält jede Caption eine markierte Stelle [DEIN SATZ] für einen
 Satz von Tom (Erfahrung, Beispiel, Meinung). Zu jeder Caption liefert der
 Lauf zwei Satzvorschläge als Inspiration. Tom schreibt den Satz selbst,
 der Rest der Caption bleibt unverändert.
+
+## Facebook: genau eine Kopie pro Stück (Regel vom 30.09.2026)
+
+Befund aus dem Dashboard der Seite Avanzee-Deutsch: jedes Stück, das kurz
+hintereinander zweimal hochgeladen wurde (07 am 18.09., S1, S4, N4), hatte
+0 bis 6 Views, beide Kopien. Jedes Stück mit genau einer Kopie hatte 189
+bis 444 Views. Meta drosselt identische Doppel-Uploads als nicht originalen
+Inhalt. Regel: jedes Stück landet genau einmal auf Facebook, nur über die
+Teilen-Funktion beim Instagram-Upload. Kein zweiter manueller Upload.
+Die Duplikate von S1, S4 und N4 hat Tom am 30.09. gelöscht.
