@@ -188,12 +188,13 @@
       "date": "2026-09-30",
       "serie": "neu",
       "kind": "signal",
-      "status": "queued",
-      "media_id": null,
-      "permalink": null,
+      "status": "posted",
+      "media_id": "17974458444136068",
+      "permalink": "https://www.instagram.com/reel/Dd658haIplA/",
       "freigabe": "Tom, Board 2026-09-14",
       "modus": "manuell",
-      "hinweis": "Am 16.09.2026 in die dunkle Optik portiert: Karussell, 6 Seiten 1080x1350. Machart erhalten, dafuer wurden Karten fuer Chat, Gegenueberstellung, Liste und Karussell in render.py ergaenzt."
+      "hinweis": "von Tom selbst in der App gepostet, als Reel (Video aus den sechs Seiten), nicht als Karussell",
+      "posted_at": "2026-09-30T17:48:20+0000"
     },
     {
       "id": "08-erst-der-mensch",
