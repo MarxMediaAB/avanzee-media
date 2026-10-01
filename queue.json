@@ -201,11 +201,12 @@
       "date": "2026-10-01",
       "serie": "alt",
       "kind": "awareness",
-      "status": "queued",
+      "status": "verworfen",
       "media_id": null,
       "permalink": null,
       "freigabe": "Tom, 2026-09-14",
-      "modus": "manuell"
+      "modus": "umbau",
+      "hinweis": "01.10. verworfen: Ueberschrift und Kernaussage fast identisch mit K1 (30.09.). Nicht posten."
     },
     {
       "id": "N5-wessen-ziel",
@@ -215,11 +216,12 @@
       "status": "queued",
       "media_id": null,
       "permalink": null,
-      "modus": "manuell"
+      "modus": "umbau",
+      "hinweis": "01.10. zurueckgestellt: zweiter Absatz wiederholt K1 fast woertlich (Eltern, Umfeld, Algorithmus). Hook neu bauen, dann Board."
     },
     {
       "id": "09-nordstern-satz",
-      "date": "2026-10-03",
+      "date": "2026-10-01",
       "serie": "alt",
       "kind": "awareness",
       "status": "queued",
@@ -229,7 +231,7 @@
     },
     {
       "id": "N6-wendepunkt",
-      "date": "2026-10-04",
+      "date": "2026-10-02",
       "serie": "alt",
       "kind": "cta",
       "status": "queued",
