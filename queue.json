@@ -224,10 +224,12 @@
       "date": "2026-10-01",
       "serie": "alt",
       "kind": "awareness",
-      "status": "queued",
-      "media_id": null,
-      "permalink": null,
-      "modus": "manuell"
+      "status": "posted",
+      "media_id": "17981659523902106",
+      "permalink": "https://www.instagram.com/reel/Dd9fI05si9L/",
+      "modus": "manuell",
+      "posted_at": "2026-10-01T17:51:32+0000",
+      "hinweis": "von Tom selbst in der App gepostet"
     },
     {
       "id": "N6-wendepunkt",
