@@ -146,10 +146,15 @@ dokumentiertes Grundgerüst: Overlay-Struktur, Caption-Gliederung, drei
 psychologische Trigger. Alle Oktober-Stücke werden dagegen geprüft und
 umgebaut, danach Freigabe auf dem Board, Start 05.10.
 
-Ab Oktober enthält jede Caption eine markierte Stelle [DEIN SATZ] für einen
-Satz von Tom (Erfahrung, Beispiel, Meinung). Zu jeder Caption liefert der
-Lauf zwei Satzvorschläge als Inspiration. Tom schreibt den Satz selbst,
-der Rest der Caption bleibt unverändert.
+Ab Oktober fügt Tom in jede Caption einen eigenen Satz ein (Erfahrung,
+Beispiel, Meinung), in der App, vor der Frage am Ende. Die .txt enthält
+keinen Platzhalter. Zu jeder Caption liefert der Lauf zwei Satzvorschläge
+als Inspiration. Tom schreibt den Satz selbst, der Rest bleibt unverändert.
+
+Stand 03.10.2026: Grundgerüst liegt in grundgeruest.md (Overlay-Struktur,
+Caption-Gliederung, drei Trigger, aus vier viralen Reels). Alle zehn
+Oktober-Stücke sind danach neu gebaut: eine stehende Liste mit sieben
+Punkten, 21 s, kein Schnitt. Start 04.10. nach Freigabe auf dem Board.
 
 ## Facebook: genau eine Kopie pro Stück (Regel vom 30.09.2026)
 
