@@ -236,10 +236,12 @@
       "date": "2026-10-02",
       "serie": "alt",
       "kind": "cta",
-      "status": "queued",
-      "media_id": null,
-      "permalink": null,
-      "modus": "manuell"
+      "status": "posted",
+      "media_id": "18143167351575954",
+      "permalink": "https://www.instagram.com/reel/DeAFi4iImYf/",
+      "modus": "manuell",
+      "posted_at": "2026-10-02T18:05:55+0000",
+      "hinweis": "von Tom selbst in der App gepostet"
     },
     {
       "date": "2026-10-04",
