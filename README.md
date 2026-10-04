@@ -151,10 +151,11 @@ Beispiel, Meinung), in der App, vor der Frage am Ende. Die .txt enthält
 keinen Platzhalter. Zu jeder Caption liefert der Lauf zwei Satzvorschläge
 als Inspiration. Tom schreibt den Satz selbst, der Rest bleibt unverändert.
 
-Stand 03.10.2026: Grundgerüst liegt in grundgeruest.md (Overlay-Struktur,
-Caption-Gliederung, drei Trigger, aus vier viralen Reels). Alle zehn
-Oktober-Stücke sind danach neu gebaut: eine stehende Liste mit sieben
-Punkten, 21 s, kein Schnitt. Start 04.10. nach Freigabe auf dem Board.
+Stand 04.10.2026: Grundgerüst liegt in grundgeruest.md (37 Screenshots,
+neun Accounts, drei Formate der Nische, Overlay-Struktur, Caption-Gliederung,
+drei Trigger). Alle zehn Oktober-Stücke sind danach gebaut (v3): Titelbild
+3 s, dann stehende Liste mit sieben Punkten, ein Wort pro Punkt gold,
+Schlusszeile als Bedingung, netto 23,65 s. Start nach Freigabe auf dem Board.
 
 ## Facebook: genau eine Kopie pro Stück (Regel vom 30.09.2026)
 

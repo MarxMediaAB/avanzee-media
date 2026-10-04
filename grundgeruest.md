@@ -1,7 +1,7 @@
-# Grundgerüst (Stand 03.10.2026)
+# Grundgerüst (Stand 04.10.2026)
 
-Quelle: vier virale Reels aus vier deutschsprachigen Accounts der Nische,
-zusammen rund 7,6 Millionen Aufrufe. Screenshots von Tom am 03.10.2026.
+Quelle: 37 Screenshots von Tom (03. und 04.10.2026), neun deutschsprachige
+Accounts, zusammen über 15 Millionen Aufrufe.
 
 | Account | Reel | Aufrufe | Form |
 |---|---|---|---|
@@ -9,27 +9,57 @@ zusammen rund 7,6 Millionen Aufrufe. Screenshots von Tom am 03.10.2026.
 | soul.reich | Dieser Zeitplan kann dein Leben verändern | 1,2 Mio. | täglich/wöchentlich/monatlich, eine Karte |
 | maximales.leben | 7 Anzeichen, dass du eine seltene Aura hast | 1,2 Mio. | 7 Punkte, eine Karte |
 | immogenial | Wie man Menschen liest | n. a. | 12 Punkte mit Icons, eine Karte |
+| mentalogie | Fakten über hoch sensible Menschen | 2,0 Mio. | 8 Punkte, Schlüsselwort fett, Papier hell |
+| mentalexikon | Wir verlieben uns in 3 Menschen im Leben | 3,1 Mio. | 3 benannte Blöcke, Papier hell |
+| animus.official_ | So wirkst du absolut selbstbewusst | n. a. | 6 Punkte auf Foto, letzter Punkt "folge mir" |
+| niklas_volland | Traust du dich ChatGPT diese Frage zu stellen? | 1,0 Mio. | Bildschirmaufnahme, Prompt wird getippt, Stichwort-DM |
+| leonhei | Wie Gedanken dein Leben formen | n. a. | Person spricht, ein Wort pro Satz gold |
+| tobias_beck_official | Wie lange hältst du dich schon zurück? | n. a. | Gesicht frontal, 1 bis 3 Wörter Untertitel |
+| unbekannt | 10 Lektionen aus 10 Jahren | 551K | Titelbild, Zahl gross in Gold |
+
+## 0. Drei Formate in der Nische
+
+1. Stehende Liste (mindsetpsycho, soul.reich, maximales.leben, immogenial,
+   mentalogie, mentalexikon, animus). Das Format mit den meisten Aufrufen.
+   Unser Standard im Oktober.
+2. Kamera mit Untertitel (leonhei, tobias_beck). Person spricht, ein bis drei
+   Wörter pro Frame, ein Wort gold. Das ist der Follower-Hebel, sobald Tom
+   vor die Kamera geht (Skripte in kamera/skripte-woche1.md).
+3. Bildschirmaufnahme mit Stichwort (niklas_volland): ein Prompt wird live
+   getippt, Caption "Folge + kommentiere PROMPT, ich sende dir den Text".
+   16.400 Kommentare bei 25.100 Likes. Unsere NORDSTERN-Automatik kann genau
+   das bedienen. Vorschlag: ein Stück "Stell ChatGPT diese 7 Fragen" mit
+   Stichwort NORDSTERN.
 
 ## 1. Overlay-Struktur (im Bild)
 
-1. Eine einzige stehende Textkarte. Kein Schnitt, keine Person, keine Animation.
+0. Titelbild zuerst: nur die Überschrift, Großbuchstaben, ein Wort farbig,
+   kein Listenpunkt. Bei jedem der Vorbilder ist das Cover im Feed ein
+   anderes Bild als die Liste im Reel (mindsetpsycho, soul.reich,
+   maximales.leben, mentalogie, mentalexikon, niklas_volland).
+1. Danach eine einzige stehende Textkarte. Kein Schnitt, keine Person, keine Animation.
    Der Zuschauer hält an, um zu lesen. Lange Sehdauer und Speichern sind das Ziel.
 2. Überschrift oben, fett, maximal zwei Zeilen: eine Zahl ("7 Anzeichen, ...")
    oder "So / Wie" plus das gewünschte Ergebnis.
 3. Darunter 7 bis 12 Punkte, je ein Satz, Du-Form, nummeriert. Keine Erklärung
    im Bild, die Erklärung passiert im Kopf des Zuschauers.
 4. Letzter Punkt darf ein Bruch sein (Selbstbezug, Frage, Augenzwinkern).
-5. Ein Akzent (bei uns Gold) für Nummern und Marke, sonst Weiß auf Dunkel.
-6. CTA im Bild: "Folge für mehr". Der Workbook-Link steht nur in der Caption.
+5. Pro Punkt ein Wort hervorgehoben (maximales.leben gold, mentalogie fett,
+   immogenial der Begriff fett). Das Auge springt von Akzent zu Akzent.
+6. CTA im Bild als Bedingung: "Wenn du dich wiedererkennst, folge für mehr"
+   (mentalogie, animus, mindsetpsycho Punkt 8). Der Workbook-Link steht nur
+   in der Caption.
 
-Unsere Umsetzung: kind "list", eine Karte, 21 Sekunden, Titel 58 px, Punkte 48 px,
-Logo und AVANZEE.COM oben, "Folge für mehr" unten, stumm (Tom legt Audio drauf).
+Unsere Umsetzung (v3, 04.10.): Karte 1 Titelbild 3 s, Karte 2 Liste 21 s,
+netto 23,65 s. Titel 58 px, Punkte 48 px, ein Wort pro Punkt gold (*Wort* in
+der Bank), Schlusszeile als Bedingung pro Stück, Logo und AVANZEE.COM oben,
+stumm (Tom legt Audio drauf). Tom wählt in der App den ersten Frame als Cover.
 
 ## 2. Caption-Gliederung
 
 1. Zeile 1: die Überschrift aus dem Bild, wörtlich.
-2. Zwei bis drei Sätze Umdeutung: warum das so ist, was es wirklich bedeutet.
-   Kurz, keine Wiederholung der Liste.
+2. Zwei bis drei Sätze Umdeutung in kurzen Zeilen, je ein Satz pro Zeile
+   (mentalogie, mentalexikon, maximales.leben). Keine Wiederholung der Liste.
 3. Toms eigener Satz (Erfahrung, Beispiel, Meinung). Er schreibt ihn in der App.
    Pro Stück liefert das Board zwei Vorschläge als Inspiration.
 4. Eine Frage, die zum Kommentieren einlädt ("Bei welcher Nummer ...?").
@@ -54,9 +84,10 @@ pro Liste, Serienlogik. Das passt zum Format "Behauptung mit Auflösung", nicht
 zum Format der Vorbilder. Unser bestes Listenstück S4 "Sieben Fragen" war das
 zweitbeste Stück auf Instagram, konsistent mit dem Muster.
 
-## Oktober-Charge v2 (gebaut 03.10.2026)
+## Oktober-Charge v3 (gebaut 04.10.2026)
 
-Alle zehn Stücke als eine stehende Liste mit sieben Punkten:
+Alle zehn Stücke als Titelbild plus stehende Liste mit sieben Punkten,
+ein Wort pro Punkt gold, Schlusszeile als Bedingung:
 F1 7 Fehler, die deine Ziele killen; O1 7 Dinge, die dein Kalender über dich
 verrät; K2 So erkennst du ein fremdes Ziel; O2 7 Sätze, die nicht von dir
 stammen; F2 7 Sätze, die dich ein Jahr kosten; O3 Was im Kopf steht, aber nie

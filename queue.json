@@ -248,7 +248,7 @@
       "id": "F1-drei-fehler",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -256,7 +256,7 @@
       "id": "O1-kalender",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -264,7 +264,7 @@
       "id": "K2-wisch-antwort",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -272,7 +272,7 @@
       "id": "O2-fremde-stimme",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -280,7 +280,7 @@
       "id": "F2-drei-saetze",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -288,7 +288,7 @@
       "id": "O3-zwei-listen",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -296,7 +296,7 @@
       "id": "O4-rueckblick",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -304,7 +304,7 @@
       "id": "F3-drei-ausreden",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -312,7 +312,7 @@
       "id": "O5-dienstag",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     },
     {
@@ -320,7 +320,7 @@
       "id": "O6-eine-frage",
       "status": "queued",
       "modus": "umbau",
-      "hinweis": "03.10.: nach Grundgeruest neu gebaut (eine stehende Liste, 7 Punkte, 21 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
+      "hinweis": "04.10.: v3 nach erweitertem Grundgeruest (Titelbild + Liste, Goldwort, Bedingungs-CTA, 23,65 s). Wartet auf FREIGEGEBEN vom Board, dann modus manuell.",
       "kind": "reel"
     }
   ],
@@ -329,5 +329,5 @@
   "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 2,4 und hoechstens 3,9 Sekunden je Karte, fertiges Reel hoechstens 25 Sekunden.",
   "permalink_regel": "Wenn Tom einen Beitrag in der App loescht und neu postet, wird die alte media_id ungueltig und die API antwortet mit 'does not exist'. Der taegliche Lauf gleicht deshalb vor dem Ziehen der Zahlen ab, ob die gespeicherte media_id noch existiert, und traegt sonst die aktuelle Fassung mit derselben Caption nach. Das erklaert auch die frueheren Phantom-Permalinks vom 08. und 10.09.",
   "betriebsmodell": "Tom, 15.09.2026: jedes Stueck laedt Tom selbst in der App hoch und legt dort Trending-Audio darauf. Die API kann keine Musik hinzufuegen, und nachtraeglich laesst sich in der App auch keine mehr ergaenzen. 'manuell' ist deshalb der Normalfall. Der taegliche Lauf veroeffentlicht nichts mehr von sich aus, sondern liefert Tom Video und Caption und gleicht am Folgetag ab, was tatsaechlich online gegangen ist. Nur wenn Tom ausdruecklich 'stumm posten' sagt, wird ein Stueck auf 'auto' gesetzt und ueber die API veroeffentlicht.",
-  "charge_oktober": "Gebaut am 18.09.2026. Auswahl nach gemessener Haltequote, nicht nach Likes: N1 (Behauptung) haelt 61%, 03 (Frage) 49%, 04 (Frage mit Seriennummer) 35%. Deshalb beginnt jedes Stueck mit einer Behauptung und keines traegt eine Seriennummer im Bild. Neue Formate: Fehler-Liste (F1 bis F3) und das Karussell 'Wisch fuer die Antwort' (K2). Freigabe steht noch aus. | Stand 30.09.: angehalten auf Toms Entscheidung, siehe README Abschnitt Grundgeruest. | 03.10.2026: zweiter Bau nach grundgeruest.md. Alle zehn Stuecke als eine stehende Liste mit sieben Punkten, 21 s, Start 04.10. nach Freigabe. K2 ist jetzt ein Reel, das Karussell liegt in archiv/karussell-K2."
+  "charge_oktober": "Gebaut am 18.09.2026. Auswahl nach gemessener Haltequote, nicht nach Likes: N1 (Behauptung) haelt 61%, 03 (Frage) 49%, 04 (Frage mit Seriennummer) 35%. Deshalb beginnt jedes Stueck mit einer Behauptung und keines traegt eine Seriennummer im Bild. Neue Formate: Fehler-Liste (F1 bis F3) und das Karussell 'Wisch fuer die Antwort' (K2). Freigabe steht noch aus. | Stand 30.09.: angehalten auf Toms Entscheidung, siehe README Abschnitt Grundgeruest. | 03.10.2026: zweiter Bau nach grundgeruest.md. Alle zehn Stuecke als eine stehende Liste mit sieben Punkten, 21 s, Start 04.10. nach Freigabe. K2 ist jetzt ein Reel, das Karussell liegt in archiv/karussell-K2. | 04.10.2026: dritter Bau (v3) nach 37 Screenshots: Titelbild 3 s plus Liste 21 s, ein Wort pro Punkt gold, Schlusszeile als Bedingung."
 }
