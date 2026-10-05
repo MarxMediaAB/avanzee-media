@@ -155,7 +155,9 @@ Stand 04.10.2026: Grundgerüst liegt in grundgeruest.md (37 Screenshots,
 neun Accounts, drei Formate der Nische, Overlay-Struktur, Caption-Gliederung,
 drei Trigger). Alle zehn Oktober-Stücke sind danach gebaut (v3): Titelbild
 3 s, dann stehende Liste mit sieben Punkten, ein Wort pro Punkt gold,
-Schlusszeile als Bedingung, netto 23,65 s. Start nach Freigabe auf dem Board.
+Schlusszeile als Bedingung, netto 23,65 s. Tom hat am 05.10. alle zehn
+freigegeben (FREIGEGEBEN), Start 05.10., ein Stück pro Tag bis 14.10.
+Wochenmetrik aus Supabase liefert Tom ab dem Wochenende 10./11.10.
 
 ## Facebook: genau eine Kopie pro Stück (Regel vom 30.09.2026)
 
