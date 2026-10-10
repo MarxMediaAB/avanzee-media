@@ -246,20 +246,26 @@
     {
       "date": "2026-10-05",
       "id": "F1-drei-fehler",
-      "status": "queued",
+      "status": "posted",
       "modus": "manuell",
-      "hinweis": "v3 nach Grundgeruest (Titelbild + Liste). Tom postet selbst, Cover = erster Frame.",
+      "hinweis": "von Tom selbst in der App gepostet",
       "kind": "reel",
-      "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)"
+      "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)",
+      "media_id": "18115107866020264",
+      "permalink": "https://www.instagram.com/reel/DeR9M5IsqgE/",
+      "posted_at": "2026-10-09T16:38:56+0000"
     },
     {
       "date": "2026-10-06",
       "id": "O1-kalender",
-      "status": "queued",
+      "status": "posted",
       "modus": "manuell",
-      "hinweis": "v3 nach Grundgeruest (Titelbild + Liste). Tom postet selbst, Cover = erster Frame.",
+      "hinweis": "von Tom selbst in der App gepostet",
       "kind": "reel",
-      "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)"
+      "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)",
+      "media_id": "18161521234499592",
+      "permalink": "https://www.instagram.com/reel/DeTfS1tI32J/",
+      "posted_at": "2026-10-10T06:56:48+0000"
     },
     {
       "date": "2026-10-07",
