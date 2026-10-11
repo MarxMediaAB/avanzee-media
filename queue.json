@@ -96,6 +96,18 @@
       "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
     },
     {
+      "id": "07-traum",
+      "date": "2026-09-24",
+      "serie": "alt",
+      "kind": "awareness",
+      "status": "posted",
+      "media_id": "17944453536323234",
+      "permalink": "https://www.instagram.com/reel/DdbTB6FssJD/",
+      "modus": "manuell",
+      "posted_at": "2026-09-18T11:11:28+0000",
+      "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
+    },
+    {
       "id": "S2-die-nachricht",
       "date": "2026-09-24",
       "serie": "neu",
@@ -107,18 +119,6 @@
       "modus": "manuell",
       "hinweis": "von Tom selbst in der App gepostet",
       "posted_at": "2026-09-24T16:22:25+0000"
-    },
-    {
-      "id": "07-traum",
-      "date": "2026-09-24",
-      "serie": "alt",
-      "kind": "awareness",
-      "status": "posted",
-      "media_id": "17944453536323234",
-      "permalink": "https://www.instagram.com/reel/DdbTB6FssJD/",
-      "modus": "manuell",
-      "posted_at": "2026-09-18T11:11:28+0000",
-      "hinweis": "von Tom selbst in der App gepostet, ausserhalb der Reihenfolge"
     },
     {
       "id": "N3-halbe-zeit",
@@ -209,17 +209,6 @@
       "hinweis": "01.10. verworfen: Ueberschrift und Kernaussage fast identisch mit K1 (30.09.). Nicht posten."
     },
     {
-      "id": "N5-wessen-ziel",
-      "date": "2026-10-02",
-      "serie": "alt",
-      "kind": "cta",
-      "status": "verworfen",
-      "media_id": null,
-      "permalink": null,
-      "modus": "umbau",
-      "hinweis": "03.10. verworfen: Inhalt (fremde Ziele) steckt jetzt in K2 \"So erkennst du ein fremdes Ziel\"."
-    },
-    {
       "id": "09-nordstern-satz",
       "date": "2026-10-01",
       "serie": "alt",
@@ -230,6 +219,17 @@
       "modus": "manuell",
       "posted_at": "2026-10-01T17:51:32+0000",
       "hinweis": "von Tom selbst in der App gepostet"
+    },
+    {
+      "id": "N5-wessen-ziel",
+      "date": "2026-10-02",
+      "serie": "alt",
+      "kind": "cta",
+      "status": "verworfen",
+      "media_id": null,
+      "permalink": null,
+      "modus": "umbau",
+      "hinweis": "03.10. verworfen: Inhalt (fremde Ziele) steckt jetzt in K2 \"So erkennst du ein fremdes Ziel\"."
     },
     {
       "id": "N6-wendepunkt",
@@ -290,6 +290,15 @@
     },
     {
       "date": "2026-10-12",
+      "id": "KA-falscher-muskel",
+      "status": "queued",
+      "modus": "manuell",
+      "kind": "kamera",
+      "hinweis": "Kamera-Reel, Tom dreht selbst (kamera/skripte-woche1.md, Skript A). Kein mp4 im Repo, Lieferung = Skript + Caption.",
+      "freigabe": "FREIGEGEBEN von Tom am 27.09.2026 (Kamera-Skripte Woche 1), Dreh ab 11.10.2026"
+    },
+    {
+      "date": "2026-10-13",
       "id": "F2-drei-saetze",
       "status": "queued",
       "modus": "manuell",
@@ -298,7 +307,16 @@
       "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
+      "id": "KB-ein-satz",
+      "status": "queued",
+      "modus": "manuell",
+      "kind": "kamera",
+      "hinweis": "Kamera-Reel, Tom dreht selbst (kamera/skripte-woche1.md, Skript B). Kein mp4 im Repo, Lieferung = Skript + Caption.",
+      "freigabe": "FREIGEGEBEN von Tom am 27.09.2026 (Kamera-Skripte Woche 1), Dreh ab 11.10.2026"
+    },
+    {
+      "date": "2026-10-15",
       "id": "O3-zwei-listen",
       "status": "queued",
       "modus": "manuell",
@@ -307,7 +325,7 @@
       "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-16",
       "id": "O4-rueckblick",
       "status": "queued",
       "modus": "manuell",
@@ -316,7 +334,7 @@
       "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-17",
       "id": "F3-drei-ausreden",
       "status": "queued",
       "modus": "manuell",
@@ -325,7 +343,16 @@
       "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)"
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-10-18",
+      "id": "P1-prompt",
+      "status": "queued",
+      "modus": "manuell",
+      "kind": "reel",
+      "hinweis": "Bildschirmaufnahme-Optik, Prompt wird getippt, Stichwort NORDSTERN (Grundgeruest Format 3). Cover = erster Frame. Wartet auf P1 FREIGEGEBEN.",
+      "freigabe": "PROMPT JA von Tom am 11.10.2026, Board-Freigabe des Stuecks offen"
+    },
+    {
+      "date": "2026-10-19",
       "id": "O5-dienstag",
       "status": "queued",
       "modus": "manuell",
@@ -334,7 +361,7 @@
       "freigabe": "FREIGEGEBEN von Tom am 05.10.2026 (Board v3)"
     },
     {
-      "date": "2026-10-17",
+      "date": "2026-10-20",
       "id": "O6-eine-frage",
       "status": "queued",
       "modus": "manuell",
@@ -348,5 +375,5 @@
   "optikregel": "Tom, 15.09.2026: nur die dunkle Optik (Nachthimmel und Gold, Kopfzeile AVANZEE.COM). Die helle Signal-Serie wird portiert. Texte auf Lesegeschwindigkeit auslegen, rund 0,35 Sekunden je Wort plus 1,6 Sekunden Grundzeit, mindestens 2,4 und hoechstens 3,9 Sekunden je Karte, fertiges Reel hoechstens 25 Sekunden.",
   "permalink_regel": "Wenn Tom einen Beitrag in der App loescht und neu postet, wird die alte media_id ungueltig und die API antwortet mit 'does not exist'. Der taegliche Lauf gleicht deshalb vor dem Ziehen der Zahlen ab, ob die gespeicherte media_id noch existiert, und traegt sonst die aktuelle Fassung mit derselben Caption nach. Das erklaert auch die frueheren Phantom-Permalinks vom 08. und 10.09.",
   "betriebsmodell": "Tom, 15.09.2026: jedes Stueck laedt Tom selbst in der App hoch und legt dort Trending-Audio darauf. Die API kann keine Musik hinzufuegen, und nachtraeglich laesst sich in der App auch keine mehr ergaenzen. 'manuell' ist deshalb der Normalfall. Der taegliche Lauf veroeffentlicht nichts mehr von sich aus, sondern liefert Tom Video und Caption und gleicht am Folgetag ab, was tatsaechlich online gegangen ist. Nur wenn Tom ausdruecklich 'stumm posten' sagt, wird ein Stueck auf 'auto' gesetzt und ueber die API veroeffentlicht.",
-  "charge_oktober": "Gebaut am 18.09.2026. Auswahl nach gemessener Haltequote, nicht nach Likes: N1 (Behauptung) haelt 61%, 03 (Frage) 49%, 04 (Frage mit Seriennummer) 35%. Deshalb beginnt jedes Stueck mit einer Behauptung und keines traegt eine Seriennummer im Bild. Neue Formate: Fehler-Liste (F1 bis F3) und das Karussell 'Wisch fuer die Antwort' (K2). Freigabe steht noch aus. | Stand 30.09.: angehalten auf Toms Entscheidung, siehe README Abschnitt Grundgeruest. | 03.10.2026: zweiter Bau nach grundgeruest.md. Alle zehn Stuecke als eine stehende Liste mit sieben Punkten, 21 s, Start 04.10. nach Freigabe. K2 ist jetzt ein Reel, das Karussell liegt in archiv/karussell-K2. | 04.10.2026: dritter Bau (v3) nach 37 Screenshots: Titelbild 3 s plus Liste 21 s, ein Wort pro Punkt gold, Schlusszeile als Bedingung. | 05.10.2026: FREIGEGEBEN (alle zehn), modus manuell, Start 05.10., ein Stueck pro Tag bis 14.10. | 09.10.2026: O2 bis O6 um drei Tage nach hinten (11.10. bis 17.10.), weil F1, O1, K2 noch nicht gepostet sind. 11.10.: K2 nachgetragen (online seit 10.10. 22:21 CET). Kette laeuft, O2 geliefert am 11.10."
+  "charge_oktober": "Gebaut am 18.09.2026. Auswahl nach gemessener Haltequote, nicht nach Likes: N1 (Behauptung) haelt 61%, 03 (Frage) 49%, 04 (Frage mit Seriennummer) 35%. Deshalb beginnt jedes Stueck mit einer Behauptung und keines traegt eine Seriennummer im Bild. Neue Formate: Fehler-Liste (F1 bis F3) und das Karussell 'Wisch fuer die Antwort' (K2). Freigabe steht noch aus. | Stand 30.09.: angehalten auf Toms Entscheidung, siehe README Abschnitt Grundgeruest. | 03.10.2026: zweiter Bau nach grundgeruest.md. Alle zehn Stuecke als eine stehende Liste mit sieben Punkten, 21 s, Start 04.10. nach Freigabe. K2 ist jetzt ein Reel, das Karussell liegt in archiv/karussell-K2. | 04.10.2026: dritter Bau (v3) nach 37 Screenshots: Titelbild 3 s plus Liste 21 s, ein Wort pro Punkt gold, Schlusszeile als Bedingung. | 05.10.2026: FREIGEGEBEN (alle zehn), modus manuell, Start 05.10., ein Stueck pro Tag bis 14.10. | 09.10.2026: O2 bis O6 um drei Tage nach hinten (11.10. bis 17.10.), weil F1, O1, K2 noch nicht gepostet sind. 11.10.: K2 nachgetragen (online seit 10.10. 22:21 CET). Kette laeuft, O2 geliefert am 11.10. 11.10.: Tom PROMPT JA und KAMERA ab heute. Neue Reihenfolge: KA 12.10., F2 13.10., KB 14.10., O3 15.10., O4 16.10., F3 17.10., P1 18.10., O5 19.10., O6 20.10."
 }

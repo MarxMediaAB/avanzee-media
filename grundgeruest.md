@@ -94,3 +94,20 @@ stammen; F2 7 Sätze, die dich ein Jahr kosten; O3 Was im Kopf steht, aber nie
 im Kalender; O4 7 Anzeichen, dass du an einem Wendepunkt stehst; F3 7 Ausreden,
 die wie Vernunft klingen; O5 So verändert sich ein Leben wirklich; O6 7 Fragen,
 die zeigen, ob ein Ziel wirklich deines ist. N5 verworfen (Inhalt in K2).
+
+## Format 3 umgesetzt: P1, Stell ChatGPT diese 7 Fragen (11.10.2026)
+
+Tom hat am 11.10. PROMPT JA gegeben. Bauweise: Titelbild 2,6 s, dann neun
+Karten in Bildschirmaufnahme-Optik (Eingabefeld, Kopfzeile "ChatGPT · Neuer
+Chat", der Prompt erscheint Segment für Segment mit Cursor, Sendeknopf wird
+am Ende gold), Schlusskarte "Kommentiere NORDSTERN" mit Unterzeile. Netto
+19,9 s, Text 48 px. Karte-Typ "prompt" in render.py (segs, shown, who, size).
+Caption-CTA ist hier das Stichwort statt des Bio-Links, damit die
+NORDSTERN-Automatik die Kommentare bedient; der Link bleibt in der Bio.
+
+## Format 2 gestartet: Kamera ab 11.10.2026
+
+Tom dreht ab 11.10. selbst (Skripte A und B in kamera/skripte-woche1.md,
+Freigabe 27.09.). In der Warteschlange als kind "kamera": kein mp4 im Repo,
+die Lieferung besteht aus Skript und Caption, der Abgleich läuft wie sonst
+über die erste Caption-Zeile. KA am 12.10., KB am 14.10.

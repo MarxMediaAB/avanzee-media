@@ -169,3 +169,17 @@ bis 444 Views. Meta drosselt identische Doppel-Uploads als nicht originalen
 Inhalt. Regel: jedes Stück landet genau einmal auf Facebook, nur über die
 Teilen-Funktion beim Instagram-Upload. Kein zweiter manueller Upload.
 Die Duplikate von S1, S4 und N4 hat Tom am 30.09. gelöscht.
+
+## Stand 11.10.2026: Kamera und Prompt-Stück
+
+Tom dreht ab 11.10. selbst. Kamera-Stücke stehen mit kind "kamera" in der
+Warteschlange (KA-falscher-muskel 12.10., KB-ein-satz 14.10.): kein mp4 im
+Repository, die Caption liegt unter reels/<id>.txt, das Skript in
+kamera/skripte-woche1.md. Der tägliche Lauf liefert dafür Skript plus Caption
+und gleicht wie sonst über die erste Caption-Zeile ab.
+
+P1-prompt, Stell ChatGPT diese 7 Fragen, ist das elfte Oktober-Stück
+(Bildschirmaufnahme-Optik mit Stichwort NORDSTERN, Grundgerüst Format 3),
+Termin 18.10., wartet auf P1 FREIGEGEBEN. Reihenfolge seit 11.10.: O2 11.10.,
+KA 12.10., F2 13.10., KB 14.10., O3 15.10., O4 16.10., F3 17.10., P1 18.10.,
+O5 19.10., O6 20.10.
